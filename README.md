@@ -1,2 +1,7 @@
 # conversor-de-moedas-mobile
 avaliação para a disciplina de mobile
+
+# Nomes
+Ana Beatriz 
+Gabriel Troni
+Rhuan Vinicius
