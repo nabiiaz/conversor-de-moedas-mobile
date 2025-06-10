@@ -2,6 +2,6 @@
 avaliação para a disciplina de mobile
 
 # Nomes
-Ana Beatriz 
-Gabriel Troni
-Rhuan Vinicius
+Ana Beatriz  
+Gabriel Troni  
+Rhuan Vinicius  
